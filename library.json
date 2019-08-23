@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-lm75-temperature-sensor-high-speed-i2c",
+  "title": "lm75-temperature-sensor-high-speed-i2c",
+  "keywords": "lm75-temperature-sensor-high-speed-i2c, esp32, esp8266, arduino",
+  "description": "lm75-temperature-sensor-high-speed-i2c plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-lm75-temperature-sensor-high-speed-i2c/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-lm75-temperature-sensor-high-speed-i2c/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
